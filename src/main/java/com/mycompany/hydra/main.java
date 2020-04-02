@@ -10,5 +10,8 @@ package com.mycompany.hydra;
  * @author Stefan
  */
 public class main {
-    //prosze dzialaj
+    
+      public static void main(String[] args) {
+    System.out.println("test");
+      }
 }
